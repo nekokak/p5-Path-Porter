@@ -1,0 +1,27 @@
+This is Perl module Path::Porter.
+
+INSTALLATION
+
+Path::Porter installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Path::Porter
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Path::Porter documentation is available as in POD. So you can do:
+
+    % perldoc Path::Porter
+
+to read the documentation online with your favorite pager.
+
+Atsushi Kobayashi
